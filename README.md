@@ -7,6 +7,7 @@ of possible future outbreaks.
 I used the following **IT tools** to carry it out:
 
 * Excel (to clean data)
+    * _Note that, nowadays, I would clean and select interesting data using MySQL._
 * R (to handle data and draw conclusions)
 * LaTeX (to present the study and the final results)
 
